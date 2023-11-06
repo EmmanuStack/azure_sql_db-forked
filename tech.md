@@ -54,7 +54,7 @@ Full tech stack [here](/tech.md)
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/azure_sql_db-forked](https://github.com/EmmanuStack/azure_sql_db-forked)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|2<br/>Contributors|11/05/23 <br/>Report generated|06/21/23<br/>Last commit date|
+|30<br/>Tools used|2<br/>Contributors|11/06/23 <br/>Report generated|06/21/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
