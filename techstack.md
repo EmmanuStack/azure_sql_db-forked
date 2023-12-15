@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/azure_sql_db-forked](https://github.com/EmmanuStack/azure_sql_db-forked)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|12/13/23 <br/>Report generated|
+|26<br/>Tools used|12/15/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -136,6 +136,19 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3433/OJB_wH-7_400x400.jpg' alt='Azure SQL Database'>
+  <br>
+  <sub><a href="http://azure.microsoft.com/en-us/services/sql-database/">Azure SQL Database</a></sub>
+  <br>
+  <sub>v12.0</sub>
+</td>
+
+</tr>
+</table>
+
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (6)
 <table><tr>
   <td align='center'>
@@ -189,17 +202,9 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (3)
+## Other (2)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/3433/OJB_wH-7_400x400.jpg' alt='Azure SQL Database'>
-  <br>
-  <sub><a href="http://azure.microsoft.com/en-us/services/sql-database/">Azure SQL Database</a></sub>
-  <br>
-  <sub>v12.0</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'>
   <br>
   <sub><a href="https://www.mozilla.org/en-US/firefox/">Firefox</a></sub>
