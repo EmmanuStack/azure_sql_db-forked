@@ -12,9 +12,13 @@ EmmanuStack/azure_sql_db-forked is built on the following main stack:
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
 - [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
 - [Azure SQL Database](http://azure.microsoft.com/en-us/services/sql-database/) – SQL Database as a Service
+- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
+- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Istio](https://istio.io/) – Microservices Tools
+- [Selenium](http://www.seleniumhq.org/) – Browser Testing
 - [Terraform](https://www.terraform.io/) – Server Configuration and Automation
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
 - [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
@@ -35,9 +39,13 @@ EmmanuStack/azure_sql_db-forked is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/3433/OJB_wH-7_400x400.jpg' alt='Azure SQL Database'/> [Azure SQL Database](http://azure.microsoft.com/en-us/services/sql-database/) – SQL Database as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/10254/no-img-open-source.png' alt='Entity Framework Core'/> [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
@@ -50,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/azure_sql_db-forked](https://github.com/EmmanuStack/azure_sql_db-forked)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|03/08/24 <br/>Report generated|
+|30<br/>Tools used|03/11/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -114,7 +122,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
   <br>
-  <sub>v4.8</sub>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -136,7 +144,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3433/OJB_wH-7_400x400.jpg' alt='Azure SQL Database'>
@@ -146,10 +154,34 @@ Full tech stack [here](/techstack.md)
   <sub>v12.0</sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'>
+  <br>
+  <sub><a href="https://docs.microsoft.com/en-us/aspnet/entity-framework">Entity Framework</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10254/no-img-open-source.png' alt='Entity Framework Core'>
+  <br>
+  <sub><a href="https://docs.microsoft.com/en-us/ef/core/">Entity Framework Core</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'>
+  <br>
+  <sub><a href="http://microsoft.com/sqlserver">Microsoft SQL Server</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (6)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (7)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -168,17 +200,17 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg' alt='NuGet'>
   <br>
-  <sub><a href="https://istio.io/">Istio</a></sub>
+  <sub><a href="https://www.nuget.org/">NuGet</a></sub>
   <br>
   <sub></sub>
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg' alt='NuGet'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'>
   <br>
-  <sub><a href="https://www.nuget.org/">NuGet</a></sub>
+  <sub><a href="http://www.seleniumhq.org/">Selenium</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -195,6 +227,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png' alt='Terraform Registry'>
   <br>
   <sub><a href="https://registry.terraform.io/">Terraform Registry</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'>
+  <br>
+  <sub><a href="http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx">Visual Studio</a></sub>
   <br>
   <sub></sub>
 </td>
