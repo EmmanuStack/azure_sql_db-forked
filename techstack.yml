@@ -1,8 +1,8 @@
 repo_name: EmmanuStack/azure_sql_db-forked
-report_id: 49f5193a8f05a203dbcbffcadbcd9baa
+report_id: 2b74bad7736ab0a0fe4defcfa131dcf1
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-13T20:32:57+00:00'
+timestamp: '2024-03-19T14:38:10+00:00'
 requested_by: emmanu-bacancy
 provider: github
 branch: master
@@ -226,7 +226,7 @@ tools:
 - name: PowerShell
   description: A task automation and configuration management framework
   website_url: https://docs.microsoft.com/en-us/powershell/
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
