@@ -15,6 +15,7 @@ EmmanuStack/azure_sql_db-forked is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Istio](https://istio.io/) – Microservices Tools
 - [Terraform](https://www.terraform.io/) – Server Configuration and Automation
+- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -37,6 +38,7 @@ EmmanuStack/azure_sql_db-forked is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -48,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/azure_sql_db-forked](https://github.com/EmmanuStack/azure_sql_db-forked)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|04/04/24 <br/>Report generated|
+|26<br/>Tools used|04/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -200,9 +202,17 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'>
+  <br>
+  <sub><a href="https://www.mozilla.org/en-US/firefox/">Firefox</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'>
   <br>
   <sub><a href="https://docs.microsoft.com/en-us/powershell/">PowerShell</a></sub>
@@ -214,16 +224,20 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (4)
+## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[MSTest.TestFramework](https://www.nuget.org/MSTest.TestFramework)|v2.2.8|12/17/21|Houssem Dellai |MIT|N/A|
+|[MSTest.TestFramework](https://www.nuget.org/MSTest.TestFramework)|v2.2.8|12/12/21|Houssem Dellai |MIT|N/A|
 |[Microsoft.EntityFrameworkCore.SqlServer](https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer)|v6.0.0|12/17/21|Houssem Dellai |Apache-2.0|N/A|
 |[Microsoft.EntityFrameworkCore.Tools](https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools)|v6.0.0|12/17/21|Houssem Dellai |Apache-2.0|N/A|
 |[Microsoft.VisualStudio.Web.CodeGeneration.Design](https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design)|v6.0.0|12/17/21|Houssem Dellai |Apache-2.0|N/A|
+|[Selenium.Firefox.WebDriver](https://www.nuget.org/Selenium.Firefox.WebDriver)|v0.27.0|12/12/21|Houssem Dellai |Unlicense|N/A|
+|[Selenium.WebDriver](https://www.nuget.org/Selenium.WebDriver)|v4.1.0|12/12/21|Houssem Dellai |Apache-2.0|N/A|
+|[Selenium.WebDriver.ChromeDriver](https://www.nuget.org/Selenium.WebDriver.ChromeDriver)|v96.0.4664|12/12/21|Houssem Dellai |Unlicense|N/A|
+|[Selenium.WebDriver.IEDriver](https://www.nuget.org/Selenium.WebDriver.IEDriver)|v4.0.0|12/12/21|Houssem Dellai |Unlicense|N/A|
 
 <br/>
 <div align='center'>
