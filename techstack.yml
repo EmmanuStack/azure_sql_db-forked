@@ -1,12 +1,12 @@
 repo_name: EmmanuStack/azure_sql_db-forked
-report_id: 5f7d96a0eb289eed9049c117cbcb64ef
+report_id: 4450b4be484239c6b04950a7546c9174
 version: 0.1
 repo_type: Public
-timestamp: '2024-04-04T12:54:59+00:00'
+timestamp: '2024-04-05T11:27:16+00:00'
 requested_by: emmanu-bacancy
 provider: github
 branch: master
-detected_tools_count: 21
+detected_tools_count: 26
 tools:
 - name: ASP.NET
   description: An open source web framework for building modern web apps and services
@@ -211,6 +211,18 @@ tools:
   detection_source: Terraform/webapp-db.tf
   last_updated_by: git
   last_updated_on: 2019-06-03 15:25:56.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/EmmanuStack/azure_sql_db-forked/blob/master/SeleniumUiTests/packages.config
+  detection_source: SeleniumUiTests/packages.config
+  last_updated_by: Houssem Dellai
+  last_updated_on: 2021-09-08 12:15:46.000000000 Z
 - name: PowerShell
   description: A task automation and configuration management framework
   website_url: https://docs.microsoft.com/en-us/powershell/
@@ -232,9 +244,9 @@ tools:
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
   detection_source_url: https://github.com/EmmanuStack/azure_sql_db-forked/blob/master/SeleniumUiTests/packages.config
-  detection_source: WebApp.UnitTest/WebApp.UnitTest.csproj
+  detection_source: SeleniumUiTests/packages.config
   last_updated_by: Houssem Dellai
-  last_updated_on: 2021-12-17 17:26:42.000000000 Z
+  last_updated_on: 2021-12-12 10:31:08.000000000 Z
 - name: Microsoft.EntityFrameworkCore.SqlServer
   description: Microsoft SQL Server database provider for Entity Framework Core
   package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
@@ -278,3 +290,61 @@ tools:
   detection_source: WebApp/WebApp.csproj
   last_updated_by: Houssem Dellai
   last_updated_on: 2021-12-17 15:01:19.000000000 Z
+- name: Selenium.Firefox.WebDriver
+  description: "Repurposed nuget package of Selenium.WebDriver.ChromeDriver but for
+    Firefox Driver instead \tInstall Firefox Driver"
+  package_url: https://www.nuget.org/Selenium.Firefox.WebDriver
+  version: 0.27.0
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13910/default_12c355ecd1469432782d9a53a6225a499e793b39.png
+  detection_source_url: https://github.com/EmmanuStack/azure_sql_db-forked/blob/master/SeleniumUiTests/packages.config
+  detection_source: SeleniumUiTests/packages.config
+  last_updated_by: Houssem Dellai
+  last_updated_on: 2021-12-12 10:31:08.000000000 Z
+- name: Selenium.WebDriver
+  description: Selenium is a set of different software tools each with a different
+    approach to supporting browser automation
+  package_url: https://www.nuget.org/Selenium.WebDriver
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12976/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
+  detection_source_url: https://github.com/EmmanuStack/azure_sql_db-forked/blob/master/SeleniumUiTests/packages.config
+  detection_source: SeleniumUiTests/packages.config
+  last_updated_by: Houssem Dellai
+  last_updated_on: 2021-12-12 10:31:08.000000000 Z
+- name: Selenium.WebDriver.ChromeDriver
+  description: Install Chrome Driver
+  package_url: https://www.nuget.org/Selenium.WebDriver.ChromeDriver
+  version: 96.0.4664
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13327/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
+  detection_source_url: https://github.com/EmmanuStack/azure_sql_db-forked/blob/master/SeleniumUiTests/packages.config
+  detection_source: SeleniumUiTests/packages.config
+  last_updated_by: Houssem Dellai
+  last_updated_on: 2021-12-12 10:31:08.000000000 Z
+- name: Selenium.WebDriver.IEDriver
+  description: Install IE Driver
+  package_url: https://www.nuget.org/Selenium.WebDriver.IEDriver
+  version: 4.0.0
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13511/default_a5f7e489f1a0992baa6377c8f765ce325404bce2.png
+  detection_source_url: https://github.com/EmmanuStack/azure_sql_db-forked/blob/master/SeleniumUiTests/packages.config
+  detection_source: SeleniumUiTests/packages.config
+  last_updated_by: Houssem Dellai
+  last_updated_on: 2021-12-12 10:31:08.000000000 Z
